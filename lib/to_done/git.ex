@@ -11,5 +11,4 @@ defmodule ToDone.Git do
     |> String.split("\t")
     |> List.last
   end
-
 end
