@@ -1,4 +1,3 @@
-
 [Permalink](https://www.gnu.org/licenses/agpl-3.0-standalone.html "Permalink to GNU Affero General Public License - GNU Project")
 
 # GNU Affero General Public License - GNU Project
